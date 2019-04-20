@@ -1,0 +1,98 @@
+* {
+  font-family: "Arial";
+}
+html {
+  background: black;
+  background: url("/img/arek-arek.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+}
+.total {
+  margin: auto;
+  overflow: auto;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+.bar_atas {
+  overflow: auto;
+  position: relative;
+  background: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.li_menu {
+  background: transparent;
+  margin-right: 20px;
+  color: black;
+  padding: 15px;
+  display: inline;
+}
+.a_menu {
+  text-decoration: none;
+  color: white;
+}
+.l {
+  float: left;
+  text-align: left;
+  width: 45%;
+}
+.r {
+  margin-top: 1%;
+  float: right;
+  text-align: right;
+  font-size: 15px;
+  width: 45%;
+}
+.header {
+  background: rgb(0, 0, 0, 0.3);
+  color: white;
+  height: 500px;
+  padding: 20px;
+  text-align: center;
+}
+.font_besar {
+  font-size: 50px;
+}
+.garis {
+  margin: auto;
+  overflow: auto;
+  border: 2px solid black;
+  height: 0px;
+  width: 25%;
+}
+.putih {
+  background: white;
+  margin: auto;
+  overflow: auto;
+  width: 100%;
+}
+.foto {
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 0px black;
+}
+.foto_about {
+  float: left;
+  text-align: right;
+  padding: 20px;
+  width: 45%;
+}
+.about_profile {
+  float: right;
+  padding: 20px;
+  width: 45%;
+}
+.tengah {
+  text-align: left;
+}
+.footer {
+  background: black;
+  padding: 20px;
+  text-align: right;
+  color: white;
+}
